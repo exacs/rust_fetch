@@ -1,4 +1,4 @@
-# TODO example
+# Rust fetch
 
 This app reads data from https://jsonplaceholder.typicode.com/todos and creates a CSV file (called `foo.csv`) from that data
 
