@@ -11,9 +11,10 @@ This app reads data from https://jsonplaceholder.typicode.com/todos and creates 
 
 ## Run it! (in development mode)
 
-Clone the repo & `cargo run`
+Clone the repo, go to the directory and `cargo run`
 
 ```
 git clone git@github.com:exacs/rust_fetch.git
+cd rust_fetch
 cargo run
 ```
